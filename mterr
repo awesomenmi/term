@@ -1,2 +1,0 @@
-all:
-	gcc terr.c
